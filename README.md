@@ -1,6 +1,3 @@
-# AI_LEGAL_DOCUMENT_ASSISTANT
-AI Legal Document Assistant using RAG
-
 #  AI Legal Document Assistant
 
 An AI-powered application that enables users to ask natural language questions about legal documents and receive accurate, document-grounded answers using **Retrieval-Augmented Generation (RAG)**.
